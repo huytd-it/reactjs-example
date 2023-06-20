@@ -1,0 +1,59 @@
+Thông tin cá nhân:
+
+MSSV: 21424075
+Họ và Tên: Trần Đình Huy
+Lớp: 22HCB
+Chương trình: Đại Học Hoàn Chính
+
+Tài khoản đăng nhập app:
+Username: admin
+Password: admin
+
+Đồ án: 
+Mã số bài tập: DAMH#1
+CSC13002 – LẬP TRÌNH ỨNG DỤNG JAVA
+ĐỒ ÁN MÔN HỌC
+ĐỒ ÁN #1 – SLANG WORD
+GV phụ trách: Nguyễn Văn Khiết (LT),
+Nguyễn Đức Huy (TG)
+Hồ Tuấn Thanh (TH)
+Thông tin liên lạc với GV: htthanh@fit.hcmus.edu.vn
+Hình thức: Bài tập cá nhân
+
+Các chức năng
+1. Chức năng tìm kiếm theo slang word. 
+- 10 điểm
+
+2. Chức năng tìm kiếm theo definition, hiển thị ra tất cả các slang words mà trong 
+defintion có chứa keyword gõ vào. 
+- 10 điểm
+
+3. Chức năng hiển thị history, danh sách các slang word đã tìm kiếm. 
+- 10 điểm ( Chỉ lưu history sau khi tìm kiếm )
+
+4. Chức năng add 1 slang words mới. 
+- 10 điểm - chạy chậm với file jar = 5 điểm
+
+5. Chức năng edit 1 slang word. 
+- Chỉ edit definition không edit được slang = 5 điểm
+
+6. Chức năng delete 1 slang word. Confirm trước khi xoá. 
+- 10 điểm - chạy chậm với file jar = 5 điểm
+
+7. Chức năng reset danh sách slang words gốc. 
+- 10 điểm
+
+8. Chức năng random 1 slang word (On this day slang word). 
+- 10 điểm
+
+9. Chức năng đố vui, chương trình hiển thị 1 random slang word, với 4 đáp án cho
+người dùng chọn. 
+- 10 điểm
+
+10. Chức năng đố vui, chương trình hiển thị 1 definition, với 4 slang words đáp án cho
+người dùng chọn. 
+- 10 điểm.
+
+Tổng: 85 điểm.
+
+Link youtube: https://youtu.be/HBhwF47gFwU
