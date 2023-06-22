@@ -4,27 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0535a464-64a6-4257-b51f-e0e91cfb4ec2" name="Changes" comment="" />
+    <list default="true" id="0535a464-64a6-4257-b51f-e0e91cfb4ec2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/slang/swing/login/LoginSWFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slang/swing/login/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slang/swing/login/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/slang/swing/login/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slangword-goc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/slangword-goc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slangword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/slangword.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SlangWord_Swing_jar/SlangWord-Swing.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../SlangWord_Swing_jar/SlangWord-Swing.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SlangWord_Swing_jar/slangword-goc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SlangWord_Swing_jar/slangword-goc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SlangWord_Swing_jar/slangword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SlangWord_Swing_jar/slangword.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2RT8rX3nPg5ZlkZ27YIpOKuVvgT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15332031",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -39,5 +56,8 @@
       <updated>1687262910213</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

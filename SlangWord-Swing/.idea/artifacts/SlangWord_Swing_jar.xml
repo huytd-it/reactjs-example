@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SlangWord-Swing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SlangWord_Swing_jar</output-path>
+    <root id="archive" name="SlangWord-Swing.jar">
+      <element id="module-output" name="SlangWord-Swing" />
+    </root>
+  </artifact>
+</component>
